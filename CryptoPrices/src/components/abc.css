@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(17, 12, 12);
+}
+h1{
+    color:rgb(238, 176, 176);
+    font-family:'Ubuntu', sans-serif;
+}
+h5{
+    color:black;
+}
+.heading{
+
+    background-color: rgb(17, 12, 12)
+
+}
+.row1{
+    padding: auto;
+    border: 1px solid #d7d7d7;
+    margin: auto;
+    
+}
+.row1:hover
+{
+    transform: 1.05;
+}
+.row1 img{
+    width: 5rem;
+    padding: 0.5rem;
+    
+}
+.title
+{
+    border-radius: 13px;
+    background-color: rgb(9, 9, 248,0.8);
+}
